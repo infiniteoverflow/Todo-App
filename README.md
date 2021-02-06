@@ -2,6 +2,7 @@
 
 A Flutter Todo-app that uses Hive NoSQL Database for Local Storage.
 
-## Working
+**Hive Documentation:** https://docs.hivedb.dev/#/
 
-![](working.gif)
+<img src='working.gif' height=450 width=230/>
+
